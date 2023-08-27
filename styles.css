@@ -1,0 +1,19 @@
+#sun{
+    height: 250px;
+}
+body{
+    background-image: url(./back.jpg);
+    background-size: cover;
+}
+#c{
+    height: 25px;
+}
+#r{
+    height: 90px;
+    
+}
+#end{
+    position: relative;
+    left: 90%;
+    cursor:help;
+}
